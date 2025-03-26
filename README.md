@@ -69,5 +69,5 @@ Distance from origin: 5
 ```
 
 ## Author
-- Created by [Your Name]
+- Created by Ghazi
 
